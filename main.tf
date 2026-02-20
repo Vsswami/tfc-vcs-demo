@@ -40,6 +40,6 @@ provider "aws" {
 
 resource "aws_s3_bucket" "demo" {
 
-  bucket = "tfc-cli-demo-vansh-bucket-12345"
+  bucket = "tfc-cli-demo-vansh-bucket-12"
 
 }
